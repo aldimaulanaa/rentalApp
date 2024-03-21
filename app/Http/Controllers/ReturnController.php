@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Rental;
-use App\Models\ReturnModel; // Assuming your model name is Return
+use App\Models\ReturnModel;
 
 class ReturnController extends Controller
 {
